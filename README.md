@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <!--
@@ -13,5 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<img src="https://img.shields.io/badge/Badge-blue?style=plastic&logo=Odnoklassniki&logoColor=FF0000"/>
+<div align="center">
+<img src="https://img.shields.io/badge/Status-blue?style=plastic&logo=Odnoklassniki&logoColor=FF0000"/>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongJungHyun1004&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongJungHyun1004&layout=compact&theme=dark)
+</div>
