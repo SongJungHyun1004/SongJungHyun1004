@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Hello%20I'm%20JungHyunSong&fontSize=50)
-### Hi there 👋
+### Hi there 👋 Welcome to my Git repository
 
 <!--
 **SongJungHyun1004/SongJungHyun1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
