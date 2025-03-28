@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 
 ![Junghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongJungHyun1004&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongJungHyun1004&layout=compact&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codingseja)](https://solved.ac/codingseja/)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>
